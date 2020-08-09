@@ -52,7 +52,10 @@ header {
 
 .card-body {
   min-height: 100px;
-  word-wrap: break-word
+  border-radius: 5px;
+  border-width: 1px;
+  word-wrap: break-word;
+  
 }
 
 .card-footer {
